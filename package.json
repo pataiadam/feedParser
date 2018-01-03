@@ -1,0 +1,19 @@
+{
+  "name": "feed-parser",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "article-parser": "^2.3.4",
+    "feed-read-parser": "0.0.6",
+    "request": "^2.83.0",
+    "rss-to-json": "github:pataiadam/rss-to-json",
+    "unfluff": "^3.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "“Adam <“pataiadam@gmail.com”> (http://apcloud.hu)",
+  "license": "ISC"
+}
